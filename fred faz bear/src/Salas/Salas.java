@@ -9,8 +9,6 @@ public class Salas {
     private int animatronics;
     private int comidas;
     private int instrumentos;
-    private int vasos;
-    private int pia;
     private int cameras;
     private int caixas;
     private int fogao;
@@ -18,3 +16,4 @@ public class Salas {
     private int portas;
 
 }
+
