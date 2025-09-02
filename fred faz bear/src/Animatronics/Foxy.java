@@ -4,18 +4,17 @@ public class Foxy extends Animatronics {
 
     public Foxy(){
 
-        setNomes();
-        setCores();
-        setItem();
-        setLocal();
-        setDataDeFabricacao();
-
-
+        setNomes("Foxy");
+        setCores("vermelho");
+        setItem("foice");
+        setLocal("ilha do pirata");
+        setDataDeFabricacao(1999);
 
     }
 
     @Override
     public void exbirConteudo() {
-        super.exbirConteudo();
+
     }
 }
+
